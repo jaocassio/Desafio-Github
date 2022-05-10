@@ -14,5 +14,7 @@
 
   ls -a
 
-  esses foram apena algum dos comandos utilizado nesse desafio.
+  esses foram apenas alguns dos comandos utilizado nesse desafio.
+  
++ Na outra pasta são algumas das print tiradas durante as aulas.
 
